@@ -85,6 +85,7 @@
 
 ### 公式
 - **JLPT公式サイト** (jlpt.jp)：サンプル問題・試験情報
+- **N1サンプル問題（オンライン做题）**：https://www.jlpt.jp/samples/n1/index.html — 全13題型のインタラクティブ練習
 - **国際交流基金** (jfstandard.jp)：Can-do自己評価
 
 ### 無料練習サイト
